@@ -36,7 +36,7 @@ __## Helper Functions__:
 
 - __constraint_repair.m__ : Schedule repair function based on the proposed pivot heuristic algorithm 
 
-- __count_interval.m__ :Returns a vector of ON/OFF intervals & their respective duration. 
+- __count_intervals.m__ :Returns a vector of ON/OFF intervals & their respective duration. 
 
 - __mod_repair_MDT_MUT.m__: Modified straightforward repair for pivot heuristic
 
