@@ -97,7 +97,7 @@ N=size(I,1); %%%Number of TGU's
 T=24;        %%%Study period duration
 
 %%%%fmincon.m solver options for F_LIM_ED
-%OPTS = optimoptions('fmincon','Algorithm','sqp','display','off','ConstraintTolerance',1e-2,'OptimalityTolerance',1.0000e-02,'MaxIterations',100, 'StepTolerance',1e-2,'MaxFunctionEvaluations',100);
+OPTS = optimoptions('fmincon','Algorithm','sqp','display','off','ConstraintTolerance',1e-2,'OptimalityTolerance',1.0000e-02,'MaxIterations',100, 'StepTolerance',1e-2,'MaxFunctionEvaluations',100);
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%UNIT DATA%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
