@@ -8,11 +8,9 @@ This project was written in the following language: MATLAB
 This project contains the folllowing files:
 
 __## Scripts__ : 
-- __Swarm_Generator.m__: Generates a swarm of particles where each particle is an N x T (10 x 24) binary matrix. This script is
-useful for any swarm based metaheuristic that aims to tackle the classic Thermal Unit Scheduling problem.
+- __Swarm_Generator.m__: Generates a swarm of binary particlesof dimensions N x T. This script is useful for any swarm-based metaheuristic that aims to tackle the classic Thermal Unit Scheduling problem.
 
-- __Swarm Optimizer.m__: Implements a Binary Particle Swarm Optimization (BPSO) algorithm to solve the Thermal Unit Commitment Problem. 
-Eight modified activations functions based on the popular sigmoid and tanh functions are considered. 
+- __Swarm Optimizer.m__: Implements a Binary Particle Swarm Optimization (BPSO) algorithm to solve the Thermal Unit Commitment Problem. Eight modified activations functions based on the popular sigmoid and tanh functions are considered. 
 
 
 __## Helper Functions__:
