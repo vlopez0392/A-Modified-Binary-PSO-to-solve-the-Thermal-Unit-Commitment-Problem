@@ -3,6 +3,9 @@
 This repository contains the results of my Master thesis as published in here:
 https://etd.lis.nsysu.edu.tw/ETD-db/ETD-search/view_etd?URN=etd-0713118-191039
 
+The thesis file can be found here: 
+https://drive.google.com/open?id=1g-V09C45TIsVyHdf6WtMIl_hjd0GJdHg
+
 This project was written in the following language: MATLAB 
 
 This project contains the folllowing files:
